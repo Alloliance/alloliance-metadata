@@ -1,7 +1,7 @@
 # Alloliance SDK   
 
 Usage: 
-```
+```javascript
 let privKey = ETHEREUM_PRIVATE_KEY
 let lighthouseApiKey = LIGHTHOUSE_API_KEY
 allolianceSdk.init(privKey, lighthouseApiKey)
