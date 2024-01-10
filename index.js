@@ -1,4 +1,5 @@
 const { ethers } = require('ethers');
+const lighthouse = require("@lighthouse-web3/sdk");
 
 let pk;
 let apiKey;
